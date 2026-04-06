@@ -31,7 +31,3 @@ These notebooks cover:
 - Data cleaning
 - GroupBy operations
 - Data analysis
-
-# Author
-
-Arjun Naluvala
